@@ -1,0 +1,354 @@
+2021-08-28 15:16:04 INFO  Log:19 - ------- Started test: TABLE CREATION TEST -------
+2021-08-28 15:16:04 INFO  Log:19 - Connect to Databasejdbc:mysql://localhost:3306/sakila by userroot
+2021-08-28 15:16:04 ERROR Log:35 - com.mysql.cj.jdbc.Driver
+2021-08-28 15:16:04 INFO  Log:19 - ------- Finished test: TABLE CREATION TEST -------
+2021-08-28 15:19:26 INFO  Log:19 - ------- Started test: TABLE CREATION TEST -------
+2021-08-28 15:19:26 INFO  Log:19 - Connect to Databasejdbc:mysql://localhost:3306/sakila by userroot
+2021-08-28 15:19:26 ERROR Log:35 - com.mysql.cj.jdbc.Driver
+2021-08-28 15:19:26 INFO  Log:19 - ------- Finished test: TABLE CREATION TEST -------
+2021-08-28 15:19:53 INFO  Log:19 - ------- Started test: TABLE CREATION TEST -------
+2021-08-28 15:19:53 INFO  Log:19 - Connect to Databasejdbc:mysql://localhost:3306/sakila by userroot
+2021-08-28 15:19:53 ERROR Log:35 - com.mysql.cj.jdbc.Driver
+2021-08-28 15:19:53 INFO  Log:19 - ------- Finished test: TABLE CREATION TEST -------
+2021-08-28 15:20:13 INFO  Log:19 - ------- Started test: TABLE CREATION TEST -------
+2021-08-28 15:20:13 INFO  Log:19 - Connect to Databasejdbc:mysql://localhost:3306/sakila by userroot
+2021-08-28 15:20:13 ERROR Log:35 - com.mysql.cj.jdbc.Driver
+2021-08-28 15:20:13 INFO  Log:19 - ------- Finished test: TABLE CREATION TEST -------
+2021-08-28 15:20:13 INFO  Log:19 - ------- Started test: INSERT REQUEST -------
+2021-08-28 15:20:13 INFO  Log:19 - Connect to Databasejdbc:mysql://localhost:3306/sakila by userroot
+2021-08-28 15:20:13 ERROR Log:35 - com.mysql.cj.jdbc.Driver
+2021-08-28 15:20:13 INFO  Log:19 - ------- Finished test: INSERT REQUEST -------
+2021-08-28 15:20:13 INFO  Log:19 - ------- Started test: testUpdateRequest() -------
+2021-08-28 15:20:13 INFO  Log:19 - Connect to Databasejdbc:mysql://localhost:3306/sakila by userroot
+2021-08-28 15:20:13 ERROR Log:35 - com.mysql.cj.jdbc.Driver
+2021-08-28 15:20:13 INFO  Log:19 - ------- Finished test: testUpdateRequest() -------
+2021-08-28 15:20:13 INFO  Log:19 - ------- Started test: DELETE REQUEST -------
+2021-08-28 15:20:13 INFO  Log:19 - Connect to Databasejdbc:mysql://localhost:3306/sakila by userroot
+2021-08-28 15:20:13 ERROR Log:35 - com.mysql.cj.jdbc.Driver
+2021-08-28 15:20:13 INFO  Log:19 - ------- Finished test: DELETE REQUEST -------
+2021-08-28 15:20:13 INFO  Log:19 - ------- Started test: DROP TABLE -------
+2021-08-28 15:20:13 INFO  Log:19 - Connect to Databasejdbc:mysql://localhost:3306/sakila by userroot
+2021-08-28 15:20:13 ERROR Log:35 - com.mysql.cj.jdbc.Driver
+2021-08-28 15:20:13 INFO  Log:19 - ------- Finished test: DROP TABLE -------
+2021-08-28 15:20:13 INFO  Log:19 - ------- Started test: SELECT REQUEST -------
+2021-08-28 15:20:13 INFO  Log:19 - Connect to Databasejdbc:mysql://localhost:3306/sakila by userroot
+2021-08-28 15:20:13 ERROR Log:35 - com.mysql.cj.jdbc.Driver
+2021-08-28 15:20:13 INFO  Log:19 - ------- Finished test: SELECT REQUEST -------
+2021-08-28 15:20:13 INFO  Log:19 - ------- Started test: Отправка SELECT JOIN запроса. Проверка принадлежности города стране -------
+2021-08-28 15:20:13 INFO  Log:19 - Connect to Databasejdbc:mysql://localhost:3306/sakila by userroot
+2021-08-28 15:20:13 ERROR Log:35 - com.mysql.cj.jdbc.Driver
+2021-08-28 15:20:13 INFO  Log:19 - ------- Finished test: Отправка SELECT JOIN запроса. Проверка принадлежности города стране -------
+2021-08-28 15:20:13 INFO  Log:19 - ------- Started test: Отправка SELECT JOIN запроса. Проверка языка последнего в списке фильма -------
+2021-08-28 15:20:13 INFO  Log:19 - Connect to Databasejdbc:mysql://localhost:3306/sakila by userroot
+2021-08-28 15:20:13 ERROR Log:35 - com.mysql.cj.jdbc.Driver
+2021-08-28 15:20:13 INFO  Log:19 - ------- Finished test: Отправка SELECT JOIN запроса. Проверка языка последнего в списке фильма -------
+2021-08-28 15:22:32 INFO  Log:19 - ------- Started test: Проверка создания таблицы в БД -------
+2021-08-28 15:22:32 INFO  Log:19 - Connect to Databasejdbc:mysql://localhost:3306/sakila by userroot
+2021-08-28 15:22:32 ERROR Log:35 - com.mysql.cj.jdbc.Driver
+2021-08-28 15:22:32 INFO  Log:19 - ------- Finished test: Проверка создания таблицы в БД -------
+2021-08-28 15:23:47 INFO  Log:19 - ------- Started test: Проверка создания таблицы в БД -------
+2021-08-28 15:23:47 INFO  Log:19 - Connect to Databasejdbc:mysql://localhost:3306/sakila by userroot
+2021-08-28 15:23:47 ERROR Log:35 - com.mysql.cj.jdbc.Driver
+2021-08-28 15:23:47 INFO  Log:19 - ------- Finished test: Проверка создания таблицы в БД -------
+2021-08-28 15:23:58 INFO  Log:19 - ------- Started test: Проверка создания таблицы в БД -------
+2021-08-28 15:23:58 INFO  Log:19 - Connect to Databasejdbc:mysql://localhost:3306/sakila by userroot
+2021-08-28 15:23:58 ERROR Log:35 - com.mysql.cj.jdbc.Driver
+2021-08-28 15:23:58 INFO  Log:19 - ------- Finished test: Проверка создания таблицы в БД -------
+2021-08-28 15:26:53 INFO  Log:19 - ------- Started test: Проверка создания таблицы в БД -------
+2021-08-28 15:26:53 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:26:53 ERROR Log:35 - com.mysql.cj.jdbc.Driver
+2021-08-28 15:26:53 INFO  Log:19 - ------- Finished test: Проверка создания таблицы в БД -------
+2021-08-28 15:27:14 INFO  Log:19 - ------- Started test: Проверка создания таблицы в БД -------
+2021-08-28 15:27:14 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:27:14 ERROR Log:35 - com.mysql.cj.jdbc.Driver
+2021-08-28 15:27:14 INFO  Log:19 - ------- Finished test: Проверка создания таблицы в БД -------
+2021-08-28 15:28:15 INFO  Log:19 - ------- Started test: Проверка создания таблицы в БД -------
+2021-08-28 15:28:15 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:28:15 ERROR Log:35 - com.mysql.cj.jdbc.Driver
+2021-08-28 15:28:15 INFO  Log:19 - ------- Finished test: Проверка создания таблицы в БД -------
+2021-08-28 15:29:06 INFO  Log:19 - ------- Started test: Проверка создания таблицы в БД -------
+2021-08-28 15:29:06 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:29:06 ERROR Log:35 - com.mysql.cj.jdbc.Driver
+2021-08-28 15:29:06 INFO  Log:19 - ------- Finished test: Проверка создания таблицы в БД -------
+2021-08-28 15:30:03 INFO  Log:19 - ------- Started test: Проверка создания таблицы в БД -------
+2021-08-28 15:30:03 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:30:03 ERROR Log:35 - com.mysql.cj.jdbc.Driver
+2021-08-28 15:30:03 INFO  Log:19 - ------- Finished test: Проверка создания таблицы в БД -------
+2021-08-28 15:43:19 INFO  Log:19 - ------- Started test: Проверка создания таблицы в БД -------
+2021-08-28 15:43:19 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:43:19 ERROR Log:35 - com.mysql.cj.jdbc.Driver
+2021-08-28 15:43:19 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:43:19 ERROR Log:35 - com.mysql.cj.jdbc.Driver
+2021-08-28 15:43:19 INFO  Log:19 - ------- Finished test: Проверка создания таблицы в БД -------
+2021-08-28 15:46:02 INFO  Log:19 - ------- Started test: Проверка создания таблицы в БД -------
+2021-08-28 15:46:02 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:46:02 ERROR Log:35 - com.mysql.cj.jdbc.Driver
+2021-08-28 15:46:02 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:46:02 ERROR Log:35 - com.mysql.cj.jdbc.Driver
+2021-08-28 15:46:02 INFO  Log:19 - ------- Finished test: Проверка создания таблицы в БД -------
+2021-08-28 15:46:02 INFO  Log:19 - ------- Started test: Отправка INSERT запроса -------
+2021-08-28 15:46:02 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:46:02 ERROR Log:35 - com.mysql.cj.jdbc.Driver
+2021-08-28 15:46:02 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:46:02 ERROR Log:35 - com.mysql.cj.jdbc.Driver
+2021-08-28 15:46:02 INFO  Log:19 - ------- Finished test: Отправка INSERT запроса -------
+2021-08-28 15:46:02 INFO  Log:19 - ------- Started test: testUpdateRequest() -------
+2021-08-28 15:46:02 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:46:02 ERROR Log:35 - com.mysql.cj.jdbc.Driver
+2021-08-28 15:46:02 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:46:02 ERROR Log:35 - com.mysql.cj.jdbc.Driver
+2021-08-28 15:46:02 INFO  Log:19 - ------- Finished test: testUpdateRequest() -------
+2021-08-28 15:46:02 INFO  Log:19 - ------- Started test: Отправка DELETE запроса -------
+2021-08-28 15:46:02 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:46:02 ERROR Log:35 - com.mysql.cj.jdbc.Driver
+2021-08-28 15:46:02 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:46:02 ERROR Log:35 - com.mysql.cj.jdbc.Driver
+2021-08-28 15:46:02 INFO  Log:19 - ------- Finished test: Отправка DELETE запроса -------
+2021-08-28 15:46:02 INFO  Log:19 - ------- Started test: Проверка удаления таблицы из БД -------
+2021-08-28 15:46:02 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:46:02 ERROR Log:35 - com.mysql.cj.jdbc.Driver
+2021-08-28 15:46:02 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:46:02 ERROR Log:35 - com.mysql.cj.jdbc.Driver
+2021-08-28 15:46:02 INFO  Log:19 - ------- Finished test: Проверка удаления таблицы из БД -------
+2021-08-28 15:46:02 INFO  Log:19 - ------- Started test: Отправка простого SELECT запроса. Проверка адреса -------
+2021-08-28 15:46:02 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:46:02 ERROR Log:35 - com.mysql.cj.jdbc.Driver
+2021-08-28 15:46:02 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:46:02 ERROR Log:35 - com.mysql.cj.jdbc.Driver
+2021-08-28 15:46:02 INFO  Log:19 - ------- Finished test: Отправка простого SELECT запроса. Проверка адреса -------
+2021-08-28 15:46:02 INFO  Log:19 - ------- Started test: Отправка SELECT JOIN запроса. Проверка принадлежности города стране -------
+2021-08-28 15:46:02 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:46:02 ERROR Log:35 - com.mysql.cj.jdbc.Driver
+2021-08-28 15:46:02 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:46:02 ERROR Log:35 - com.mysql.cj.jdbc.Driver
+2021-08-28 15:46:02 INFO  Log:19 - ------- Finished test: Отправка SELECT JOIN запроса. Проверка принадлежности города стране -------
+2021-08-28 15:46:02 INFO  Log:19 - ------- Started test: Отправка SELECT JOIN запроса. Проверка языка последнего в списке фильма -------
+2021-08-28 15:46:02 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:46:02 ERROR Log:35 - com.mysql.cj.jdbc.Driver
+2021-08-28 15:46:02 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:46:02 ERROR Log:35 - com.mysql.cj.jdbc.Driver
+2021-08-28 15:46:02 INFO  Log:19 - ------- Finished test: Отправка SELECT JOIN запроса. Проверка языка последнего в списке фильма -------
+2021-08-28 15:52:14 INFO  Log:19 - ------- Started test: Проверка создания таблицы в БД -------
+2021-08-28 15:52:14 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:52:14 ERROR Log:35 - com.mysql.jdbc.Driver
+2021-08-28 15:52:14 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:52:14 ERROR Log:35 - com.mysql.jdbc.Driver
+2021-08-28 15:52:14 INFO  Log:19 - ------- Finished test: Проверка создания таблицы в БД -------
+2021-08-28 15:52:14 INFO  Log:19 - ------- Started test: Отправка INSERT запроса -------
+2021-08-28 15:52:14 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:52:14 ERROR Log:35 - com.mysql.jdbc.Driver
+2021-08-28 15:52:14 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:52:14 ERROR Log:35 - com.mysql.jdbc.Driver
+2021-08-28 15:52:14 INFO  Log:19 - ------- Finished test: Отправка INSERT запроса -------
+2021-08-28 15:52:14 INFO  Log:19 - ------- Started test: testUpdateRequest() -------
+2021-08-28 15:52:14 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:52:14 ERROR Log:35 - com.mysql.jdbc.Driver
+2021-08-28 15:52:14 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:52:14 ERROR Log:35 - com.mysql.jdbc.Driver
+2021-08-28 15:52:14 INFO  Log:19 - ------- Finished test: testUpdateRequest() -------
+2021-08-28 15:52:14 INFO  Log:19 - ------- Started test: Отправка DELETE запроса -------
+2021-08-28 15:52:14 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:52:14 ERROR Log:35 - com.mysql.jdbc.Driver
+2021-08-28 15:52:14 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:52:14 ERROR Log:35 - com.mysql.jdbc.Driver
+2021-08-28 15:52:14 INFO  Log:19 - ------- Finished test: Отправка DELETE запроса -------
+2021-08-28 15:52:14 INFO  Log:19 - ------- Started test: Проверка удаления таблицы из БД -------
+2021-08-28 15:52:14 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:52:14 ERROR Log:35 - com.mysql.jdbc.Driver
+2021-08-28 15:52:14 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:52:14 ERROR Log:35 - com.mysql.jdbc.Driver
+2021-08-28 15:52:14 INFO  Log:19 - ------- Finished test: Проверка удаления таблицы из БД -------
+2021-08-28 15:52:14 INFO  Log:19 - ------- Started test: Отправка простого SELECT запроса. Проверка адреса -------
+2021-08-28 15:52:14 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:52:14 ERROR Log:35 - com.mysql.jdbc.Driver
+2021-08-28 15:52:14 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:52:14 ERROR Log:35 - com.mysql.jdbc.Driver
+2021-08-28 15:52:14 INFO  Log:19 - ------- Finished test: Отправка простого SELECT запроса. Проверка адреса -------
+2021-08-28 15:52:14 INFO  Log:19 - ------- Started test: Отправка SELECT JOIN запроса. Проверка принадлежности города стране -------
+2021-08-28 15:52:14 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:52:14 ERROR Log:35 - com.mysql.jdbc.Driver
+2021-08-28 15:52:14 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:52:14 ERROR Log:35 - com.mysql.jdbc.Driver
+2021-08-28 15:52:14 INFO  Log:19 - ------- Finished test: Отправка SELECT JOIN запроса. Проверка принадлежности города стране -------
+2021-08-28 15:52:14 INFO  Log:19 - ------- Started test: Отправка SELECT JOIN запроса. Проверка языка последнего в списке фильма -------
+2021-08-28 15:52:14 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:52:14 ERROR Log:35 - com.mysql.jdbc.Driver
+2021-08-28 15:52:14 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:52:14 ERROR Log:35 - com.mysql.jdbc.Driver
+2021-08-28 15:52:14 INFO  Log:19 - ------- Finished test: Отправка SELECT JOIN запроса. Проверка языка последнего в списке фильма -------
+2021-08-28 15:53:55 INFO  Log:19 - ------- Started test: Проверка создания таблицы в БД -------
+2021-08-28 15:53:55 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:53:55 ERROR Log:35 - com.mysql.jdbc.Driver
+2021-08-28 15:53:55 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:53:55 ERROR Log:35 - com.mysql.jdbc.Driver
+2021-08-28 15:53:55 INFO  Log:19 - ------- Finished test: Проверка создания таблицы в БД -------
+2021-08-28 15:53:55 INFO  Log:19 - ------- Started test: Отправка INSERT запроса -------
+2021-08-28 15:53:55 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:53:55 ERROR Log:35 - com.mysql.jdbc.Driver
+2021-08-28 15:53:55 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:53:55 ERROR Log:35 - com.mysql.jdbc.Driver
+2021-08-28 15:53:55 INFO  Log:19 - ------- Finished test: Отправка INSERT запроса -------
+2021-08-28 15:53:55 INFO  Log:19 - ------- Started test: testUpdateRequest() -------
+2021-08-28 15:53:55 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:53:55 ERROR Log:35 - com.mysql.jdbc.Driver
+2021-08-28 15:53:55 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:53:55 ERROR Log:35 - com.mysql.jdbc.Driver
+2021-08-28 15:53:55 INFO  Log:19 - ------- Finished test: testUpdateRequest() -------
+2021-08-28 15:53:55 INFO  Log:19 - ------- Started test: Отправка DELETE запроса -------
+2021-08-28 15:53:55 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:53:55 ERROR Log:35 - com.mysql.jdbc.Driver
+2021-08-28 15:53:55 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:53:55 ERROR Log:35 - com.mysql.jdbc.Driver
+2021-08-28 15:53:55 INFO  Log:19 - ------- Finished test: Отправка DELETE запроса -------
+2021-08-28 15:53:55 INFO  Log:19 - ------- Started test: Проверка удаления таблицы из БД -------
+2021-08-28 15:53:55 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:53:55 ERROR Log:35 - com.mysql.jdbc.Driver
+2021-08-28 15:53:55 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:53:55 ERROR Log:35 - com.mysql.jdbc.Driver
+2021-08-28 15:53:55 INFO  Log:19 - ------- Finished test: Проверка удаления таблицы из БД -------
+2021-08-28 15:53:55 INFO  Log:19 - ------- Started test: Отправка простого SELECT запроса. Проверка адреса -------
+2021-08-28 15:53:55 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:53:55 ERROR Log:35 - com.mysql.jdbc.Driver
+2021-08-28 15:53:55 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:53:55 ERROR Log:35 - com.mysql.jdbc.Driver
+2021-08-28 15:53:55 INFO  Log:19 - ------- Finished test: Отправка простого SELECT запроса. Проверка адреса -------
+2021-08-28 15:53:55 INFO  Log:19 - ------- Started test: Отправка SELECT JOIN запроса. Проверка принадлежности города стране -------
+2021-08-28 15:53:55 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:53:55 ERROR Log:35 - com.mysql.jdbc.Driver
+2021-08-28 15:53:55 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:53:55 ERROR Log:35 - com.mysql.jdbc.Driver
+2021-08-28 15:53:55 INFO  Log:19 - ------- Finished test: Отправка SELECT JOIN запроса. Проверка принадлежности города стране -------
+2021-08-28 15:53:55 INFO  Log:19 - ------- Started test: Отправка SELECT JOIN запроса. Проверка языка последнего в списке фильма -------
+2021-08-28 15:53:55 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:53:55 ERROR Log:35 - com.mysql.jdbc.Driver
+2021-08-28 15:53:55 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:53:55 ERROR Log:35 - com.mysql.jdbc.Driver
+2021-08-28 15:53:55 INFO  Log:19 - ------- Finished test: Отправка SELECT JOIN запроса. Проверка языка последнего в списке фильма -------
+2021-08-28 15:57:49 INFO  Log:19 - ------- Started test: Проверка создания таблицы в БД -------
+2021-08-28 15:57:49 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:57:51 ERROR Log:35 - Connection to DB failed!
+The server time zone value '��������������������� (����)' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+2021-08-28 15:57:51 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:57:51 ERROR Log:35 - Connection to DB failed!
+The server time zone value '��������������������� (����)' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+2021-08-28 15:57:51 INFO  Log:19 - ------- Finished test: Проверка создания таблицы в БД -------
+2021-08-28 15:57:51 INFO  Log:19 - ------- Started test: Отправка INSERT запроса -------
+2021-08-28 15:57:51 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:57:51 ERROR Log:35 - Connection to DB failed!
+The server time zone value '��������������������� (����)' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+2021-08-28 15:57:51 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:57:51 ERROR Log:35 - Connection to DB failed!
+The server time zone value '��������������������� (����)' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+2021-08-28 15:57:51 INFO  Log:19 - ------- Finished test: Отправка INSERT запроса -------
+2021-08-28 15:57:51 INFO  Log:19 - ------- Started test: testUpdateRequest() -------
+2021-08-28 15:57:51 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:57:51 ERROR Log:35 - Connection to DB failed!
+The server time zone value '��������������������� (����)' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+2021-08-28 15:57:51 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:57:51 ERROR Log:35 - Connection to DB failed!
+The server time zone value '��������������������� (����)' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+2021-08-28 15:57:51 INFO  Log:19 - ------- Finished test: testUpdateRequest() -------
+2021-08-28 15:57:51 INFO  Log:19 - ------- Started test: Отправка DELETE запроса -------
+2021-08-28 15:57:51 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:57:51 ERROR Log:35 - Connection to DB failed!
+The server time zone value '��������������������� (����)' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+2021-08-28 15:57:51 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:57:51 ERROR Log:35 - Connection to DB failed!
+The server time zone value '��������������������� (����)' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+2021-08-28 15:57:51 INFO  Log:19 - ------- Finished test: Отправка DELETE запроса -------
+2021-08-28 15:57:51 INFO  Log:19 - ------- Started test: Проверка удаления таблицы из БД -------
+2021-08-28 15:57:51 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:57:51 ERROR Log:35 - Connection to DB failed!
+The server time zone value '��������������������� (����)' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+2021-08-28 15:57:51 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:57:51 ERROR Log:35 - Connection to DB failed!
+The server time zone value '��������������������� (����)' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+2021-08-28 15:57:51 INFO  Log:19 - ------- Finished test: Проверка удаления таблицы из БД -------
+2021-08-28 15:57:51 INFO  Log:19 - ------- Started test: Отправка простого SELECT запроса. Проверка адреса -------
+2021-08-28 15:57:51 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:57:51 ERROR Log:35 - Connection to DB failed!
+The server time zone value '��������������������� (����)' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+2021-08-28 15:57:51 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:57:51 ERROR Log:35 - Connection to DB failed!
+The server time zone value '��������������������� (����)' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+2021-08-28 15:57:51 INFO  Log:19 - ------- Finished test: Отправка простого SELECT запроса. Проверка адреса -------
+2021-08-28 15:57:51 INFO  Log:19 - ------- Started test: Отправка SELECT JOIN запроса. Проверка принадлежности города стране -------
+2021-08-28 15:57:51 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:57:51 ERROR Log:35 - Connection to DB failed!
+The server time zone value '��������������������� (����)' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+2021-08-28 15:57:51 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:57:51 ERROR Log:35 - Connection to DB failed!
+The server time zone value '��������������������� (����)' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+2021-08-28 15:57:51 INFO  Log:19 - ------- Finished test: Отправка SELECT JOIN запроса. Проверка принадлежности города стране -------
+2021-08-28 15:57:51 INFO  Log:19 - ------- Started test: Отправка SELECT JOIN запроса. Проверка языка последнего в списке фильма -------
+2021-08-28 15:57:51 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:57:51 ERROR Log:35 - Connection to DB failed!
+The server time zone value '��������������������� (����)' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+2021-08-28 15:57:51 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:57:51 ERROR Log:35 - Connection to DB failed!
+The server time zone value '��������������������� (����)' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+2021-08-28 15:57:51 INFO  Log:19 - ------- Finished test: Отправка SELECT JOIN запроса. Проверка языка последнего в списке фильма -------
+2021-08-28 15:58:34 INFO  Log:19 - ------- Started test: Проверка создания таблицы в БД -------
+2021-08-28 15:58:34 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:58:35 ERROR Log:35 - Connection to DB failed!
+The server time zone value '��������������������� (����)' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+2021-08-28 15:58:35 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:58:35 ERROR Log:35 - Connection to DB failed!
+The server time zone value '��������������������� (����)' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+2021-08-28 15:58:35 INFO  Log:19 - ------- Finished test: Проверка создания таблицы в БД -------
+2021-08-28 15:58:35 INFO  Log:19 - ------- Started test: Отправка INSERT запроса -------
+2021-08-28 15:58:35 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:58:35 ERROR Log:35 - Connection to DB failed!
+The server time zone value '��������������������� (����)' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+2021-08-28 15:58:35 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:58:35 ERROR Log:35 - Connection to DB failed!
+The server time zone value '��������������������� (����)' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+2021-08-28 15:58:35 INFO  Log:19 - ------- Finished test: Отправка INSERT запроса -------
+2021-08-28 15:58:35 INFO  Log:19 - ------- Started test: testUpdateRequest() -------
+2021-08-28 15:58:35 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:58:35 ERROR Log:35 - Connection to DB failed!
+The server time zone value '��������������������� (����)' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+2021-08-28 15:58:35 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:58:35 ERROR Log:35 - Connection to DB failed!
+The server time zone value '��������������������� (����)' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+2021-08-28 15:58:35 INFO  Log:19 - ------- Finished test: testUpdateRequest() -------
+2021-08-28 15:58:35 INFO  Log:19 - ------- Started test: Отправка DELETE запроса -------
+2021-08-28 15:58:35 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:58:35 ERROR Log:35 - Connection to DB failed!
+The server time zone value '��������������������� (����)' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+2021-08-28 15:58:35 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:58:36 ERROR Log:35 - Connection to DB failed!
+The server time zone value '��������������������� (����)' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+2021-08-28 15:58:36 INFO  Log:19 - ------- Finished test: Отправка DELETE запроса -------
+2021-08-28 15:58:36 INFO  Log:19 - ------- Started test: Проверка удаления таблицы из БД -------
+2021-08-28 15:58:36 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:58:36 ERROR Log:35 - Connection to DB failed!
+The server time zone value '��������������������� (����)' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+2021-08-28 15:58:36 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:58:36 ERROR Log:35 - Connection to DB failed!
+The server time zone value '��������������������� (����)' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+2021-08-28 15:58:36 INFO  Log:19 - ------- Finished test: Проверка удаления таблицы из БД -------
+2021-08-28 15:58:36 INFO  Log:19 - ------- Started test: Отправка простого SELECT запроса. Проверка адреса -------
+2021-08-28 15:58:36 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:58:36 ERROR Log:35 - Connection to DB failed!
+The server time zone value '��������������������� (����)' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+2021-08-28 15:58:36 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:58:36 ERROR Log:35 - Connection to DB failed!
+The server time zone value '��������������������� (����)' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+2021-08-28 15:58:36 INFO  Log:19 - ------- Finished test: Отправка простого SELECT запроса. Проверка адреса -------
+2021-08-28 15:58:36 INFO  Log:19 - ------- Started test: Отправка SELECT JOIN запроса. Проверка принадлежности города стране -------
+2021-08-28 15:58:36 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:58:36 ERROR Log:35 - Connection to DB failed!
+The server time zone value '��������������������� (����)' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+2021-08-28 15:58:36 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:58:36 ERROR Log:35 - Connection to DB failed!
+The server time zone value '��������������������� (����)' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+2021-08-28 15:58:36 INFO  Log:19 - ------- Finished test: Отправка SELECT JOIN запроса. Проверка принадлежности города стране -------
+2021-08-28 15:58:36 INFO  Log:19 - ------- Started test: Отправка SELECT JOIN запроса. Проверка языка последнего в списке фильма -------
+2021-08-28 15:58:36 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:58:36 ERROR Log:35 - Connection to DB failed!
+The server time zone value '��������������������� (����)' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+2021-08-28 15:58:36 INFO  Log:19 - Connect to DB jdbc:mysql://localhost:3306/sakila by user root
+2021-08-28 15:58:36 ERROR Log:35 - Connection to DB failed!
+The server time zone value '��������������������� (����)' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+2021-08-28 15:58:36 INFO  Log:19 - ------- Finished test: Отправка SELECT JOIN запроса. Проверка языка последнего в списке фильма -------
